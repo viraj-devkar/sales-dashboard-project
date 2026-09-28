@@ -7,6 +7,7 @@ This project analyzes sales data and presents key business insights through an i
 - Sales_Raw_Data.xlsx – Raw sales dataset
 - Sales_Dashboard.xlsx – Interactive dashboard
 
+
 ## Features
 - Sales KPI tracking
 - Revenue analysis
